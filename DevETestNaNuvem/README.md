@@ -2,7 +2,7 @@
 
 ###O que você encontra aqui? 
 
-Código fonte da solução apresentada no ALM Summit Brasil 2014 na palestra Economize tempo e dinheiro com Dev & Test na Nuvem.
+Código fonte da solução apresentada no ALM Summit Brasil 2014 na palestra **Economize tempo e dinheiro com Dev & Test na Nuvem**.
 Os slides da palestrar estão disponíveis neste [link aqui](http://pt.slideshare.net/williansrz/alm-summit-br-economize-tempo-e-dinheiro-com-dev-test-na-nuvem ) 
 
 ###Qual é o objetivo deste repositório?
