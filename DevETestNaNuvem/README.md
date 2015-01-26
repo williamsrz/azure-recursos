@@ -1,4 +1,4 @@
-##Dev & Test na Nuvem.
+##Dev & Test na Nuvem
 
 ###O que você encontra aqui? 
 
